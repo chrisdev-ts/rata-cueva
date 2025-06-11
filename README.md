@@ -24,6 +24,12 @@ Ofrecer una herramienta accesible y eficiente que:
 
 ---
 
+## ⭐ Nombres
+1.
+2.
+3.
+4.
+  
 ## ⭐ Agradecimientos
 
 ¡Gracias por tu interés en RataCueva!  
