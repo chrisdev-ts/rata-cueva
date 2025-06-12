@@ -26,7 +26,7 @@ Ofrecer una herramienta accesible y eficiente que:
 
 ## ⭐ Nombres
 1.
-2.
+2. Misrael Florentino Altamirano
 3.
 4.
   
