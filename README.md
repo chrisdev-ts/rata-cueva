@@ -25,7 +25,7 @@ Ofrecer una herramienta accesible y eficiente que:
 ---
 
 ## ⭐ Nombres
-1.
+1. Jorge Christian Serrano Puertos
 2.
 3.
 4.
