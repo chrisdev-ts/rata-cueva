@@ -29,7 +29,7 @@ Ofrecer una herramienta accesible y eficiente que:
 2.
 3.
 4. José Eduardo Chávez Moreno
-  
+5. Alejandro Ortiz Pérez
 ## ⭐ Agradecimientos
 
 ¡Gracias por tu interés en RataCueva!  
