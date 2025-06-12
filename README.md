@@ -28,7 +28,7 @@ Ofrecer una herramienta accesible y eficiente que:
 1.
 2.
 3.
-4.
+4. José Eduardo Chávez Moreno
   
 ## ⭐ Agradecimientos
 
