@@ -27,7 +27,7 @@ Ofrecer una herramienta accesible y eficiente que:
 ## ⭐ Nombres
 1. Jorge Christian Serrano Puertos
 2. Misrael Florentino Alatamirano
-3. 
+3. Erick Ernesto Lopez Valdes
 4. José Eduardo Chávez Moreno
 5. Alejandro Ortiz Peréz
   
