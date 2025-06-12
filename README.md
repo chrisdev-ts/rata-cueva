@@ -27,7 +27,7 @@ Ofrecer una herramienta accesible y eficiente que:
 ## ⭐ Nombres
 1. Jorge Christian Serrano Puertos
 2.
-3.
+3. Erick Ernesto Lopez Valdes
 4.
   
 ## ⭐ Agradecimientos
