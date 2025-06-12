@@ -29,6 +29,7 @@ Ofrecer una herramienta accesible y eficiente que:
 2. Misrael Florentino Alatamirano
 3. 
 4. José Eduardo Chávez Moreno
+5. Alejandro Ortiz Peréz
   
 ## ⭐ Agradecimientos
 
